@@ -1,0 +1,14 @@
+asgiref==3.7.2
+beautifulsoup4==4.12.2
+Django==5.0
+django-bootstrap4==23.2
+django-stdimage==6.0.2
+gunicorn==21.2.0
+packaging==23.2
+Pillow==10.1.0
+protobuf==4.21.12
+PyMySQL==1.1.0
+soupsieve==2.5
+sqlparse==0.4.4
+tzdata==2023.3
+whitenoise==6.6.0
